@@ -8,8 +8,13 @@
 - Sort by ( Recently added products , by low prices , by high prices)
 - Searching on spot while typing
 - pagination 
-
-### How To use this project 
+### Library used 
+- React
+- Tailwind
+- Headless ui
+- Heroicons
+- React Paginate 
+#### How To use this project 
 
 - Clone Repo
 - install packages by :-
